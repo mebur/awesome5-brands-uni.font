@@ -1,1 +1,4 @@
-<svg height="1000" width="875" xmlns="http://www.w3.org/2000/svg"><path d="M0 62.5v875h875v-875H0zm700 350H525v175H350v175H175v-525h525v175z"/></svg>
+
+  <svg height="1000" width="875.0" xmlns="http://www.w3.org/2000/svg">
+    <path d="m0 62.5h875v875h-875v-875z m700 350v-175h-525v525h175v-175h175v-175h175z" />
+  </svg>

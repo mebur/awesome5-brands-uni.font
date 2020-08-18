@@ -93,7 +93,7 @@ meta:
 
 
 font:
-  version: "5.2.0"
+  version: "5.14.0"
 
   # use !!!small!!! letters a-z, or Opera will fail under OS X
   # fontname will be also used as file name.
@@ -1001,10 +1001,6 @@ glyphs:
     code: 0xF5A8
     uid: 7391f6de2e16e5ee0f2cdb286712342e
     search: []
-  - css: "nintendo-switch"
-    code: 0xF418
-    uid: 742f37611a821012bd55c4a4afe2b806
-    search: []
   - css: "node-js"
     code: 0xF3D3
     uid: e53dc54507d2a9ae68147d009747c92f
@@ -1620,4 +1616,288 @@ glyphs:
   - css: zhihu
     code: 0xF63F
     uid: 8d942aac4691889574853671601c1fda
+    search: []
+  - css: ideal
+    code: 0xE013
+    uid: 4114f028f8c3216780ddb21bc0e42e0a
+    search: []
+  - css: "firefox-browser"
+    code: 0xE007
+    uid: f5a4c7b19a6f5efbbe5c23f9da628456
+    search: []
+  - css: microblog
+    code: 0xE01A
+    uid: 8dc8303947b5533bad467ac2ab26af55
+    search: []
+  - css: "pied-piper-square"
+    code: 0xE01E
+    uid: 0ce6cf903ded42697916688f596d4ff8
+    search: []
+  - css: unity
+    code: 0xE049
+    uid: 254991e6a32fe9f15df804b117a6691b
+    search: []
+  - css: shopify
+    code: 0xE057
+    uid: 86a59d475c9521f89d8b167aa124e5c5
+    search: []
+  - css: dailymotion
+    code: 0xE052
+    uid: 3b2973740d2472b068eff3daf06c6f0f
+    search: []
+  - css: "instagram-square"
+    code: 0xE055
+    uid: 69012ba776c44eacc7d0f2ff06643a89
+    search: []
+  - css: mixer
+    code: 0xE056
+    uid: 5bedcc30546d240c23108f379171fe33
+    search: []
+  - css: "edge-legacy"
+    code: 0xE078
+    uid: 90231fb164fdf564afa511cbab3b09c6
+    search: []
+  - css: deezer
+    code: 0xE077
+    uid: 5d2d71def885512a2331f926c3b5c907
+    search: []
+  - css: "google-pay"
+    code: 0xE079
+    uid: be13a588b80f9f46abb98c3bf24eb9ec
+    search: []
+  - css: rust
+    code: 0xE07A
+    uid: 602ad4f7ecaa0ed5ac6969b47f48fd2a
+    search: []
+  - css: tiktok
+    code: 0xE07B
+    uid: 6177a07d2da6d004b14dfb1b9583470b
+    search: []
+  - css: unsplash
+    code: 0xE07C
+    uid: cf53e36d0aa231725680bcaf7422067c
+    search: []
+  - css: "creative-commons-zero"
+    code: 0xF4F3
+    uid: a5374b77d951bf27564af9e2b02a1f46
+    search: []
+  - css: alipay
+    code: 0xF642
+    uid: b9d880df6ba2f4896bcdfbc1eaf5ff5d
+    search: []
+  - css: "acquisitions-incorporated"
+    code: 0xF6AF
+    uid: 6192890a54a3364082793028bb7153ee
+    search: []
+  - css: dev
+    code: 0xF6CC
+    uid: 9f22d78780f0a6d09e29311da7398273
+    search: []
+  - css: "the-red-yeti"
+    code: 0xF69D
+    uid: 9beb29e891e84041d99fe8b4d82f49ba
+    search: []
+  - css: "critical-role"
+    code: 0xF6C9
+    uid: 25f47a83c090dbd82d7b2a2fdf5a8a08
+    search: []
+  - css: "fantasy-flight-games"
+    code: 0xF6DC
+    uid: da1cd0878b8a42db4f92454cfef41fc3
+    search: []
+  - css: "d-and-d-beyond"
+    code: 0xF6CA
+    uid: d2ff1bd09135262666347fb028790e17
+    search: []
+  - css: "penny-arcade"
+    code: 0xF704
+    uid: 6c9aa11745d5e4b72d1a0cb9c2da0e31
+    search: []
+  - css: "think-peaks"
+    code: 0xF731
+    uid: 1f3dd51a341018307854a9105c05f434
+    search: []
+  - css: "wizards-of-the-coast"
+    code: 0xF730
+    uid: e86988b42520469805bcaf424dff02a3
+    search: []
+  - css: adobe
+    code: 0xF778
+    uid: 4786e8617d20b27baaedce9579d96a10
+    search: []
+  - css: artstation
+    code: 0xF77A
+    uid: 472dca46812fa28f546be90bf1062b64
+    search: []
+  - css: atlassian
+    code: 0xF77B
+    uid: c99291604f4a80c326b2e24d3a36e90c
+    search: []
+  - css: "canadian-maple-leaf"
+    code: 0xF785
+    uid: aa0e672a718a98d83e2e70fa0e140828
+    search: []
+  - css: reacteurope
+    code: 0xF75D
+    uid: acd44b7dcbc46b7bd7272c0d62a670d7
+    search: []
+  - css: centos
+    code: 0xF789
+    uid: f7eda5b546ca1f9da222da35aa801ec5
+    search: []
+  - css: confluence
+    code: 0xF78D
+    uid: 1d4677ee1a286160bd5d33fb61229215
+    search: []
+  - css: fedex
+    code: 0xF797
+    uid: 5b5f9e6fef22cf817943e07fd7291390
+    search: []
+  - css: dhl
+    code: 0xF790
+    uid: 26c5bf61b7032c5cb40b63d94b7f357b
+    search: []
+  - css: diaspora
+    code: 0xF791
+    uid: 5e1f42cf6c8494556fb7b7ff5befdd2e
+    search: []
+  - css: figma
+    code: 0xF799
+    uid: f51a250fa8584f4c1f8568790010f080
+    search: []
+  - css: fedora
+    code: 0xF798
+    uid: 60ef3cd0e0557abd5b57163a444fda3c
+    search: []
+  - css: intercom
+    code: 0xF7AF
+    uid: 74115e5462323b993d15b62f7bb671fb
+    search: []
+  - css: invision
+    code: 0xF7B0
+    uid: a8ab5d0194b8de6a0b0edb2f565fa24a
+    search: []
+  - css: jira
+    code: 0xF7B1
+    uid: 880dcdd2a22f05959728ccb8664c0604
+    search: []
+  - css: mendeley
+    code: 0xF7B3
+    uid: 3921d1c6c036dca6b707b2be79d74f3c
+    search: []
+  - css: sketch
+    code: 0xF7C6
+    uid: 93363585fbe3a1785c210008f6448e8e
+    search: []
+  - css: "raspberry-pi"
+    code: 0xF7BB
+    uid: 486d6bbc345c1ad97bc8dabe44f96bb6
+    search: []
+  - css: sourcetree
+    code: 0xF7D3
+    uid: 062a46fd14594b56748a41712f04fe7d
+    search: []
+  - css: suse
+    code: 0xF7D6
+    uid: a9bbeccd9649917949772de27b5ea0fa
+    search: []
+  - css: redhat
+    code: 0xF7BC
+    uid: 4283d1efcc87b0aa1feb160319267c50
+    search: []
+  - css: ubuntu
+    code: 0xF7DF
+    uid: b35f0c629077a9e4290a6d8e01ecf248
+    search: []
+  - css: ups
+    code: 0xF7E0
+    uid: 67bb9907e533f3adb05af00efa59d1b6
+    search: []
+  - css: yarn
+    code: 0xF7E3
+    uid: 8630c6b0a4c999293a2ef12eef16dc98
+    search: []
+  - css: usps
+    code: 0xF7E1
+    uid: 111a1598e69a5b99cac83b1fbc4db705
+    search: []
+  - css: airbnb
+    code: 0xF834
+    uid: 4b57b5445374c497d05a2e5c1d025738
+    search: []
+  - css: "battle-net"
+    code: 0xF835
+    uid: 610d31f0323324288c7e49fd114e7009
+    search: []
+  - css: bootstrap
+    code: 0xF836
+    uid: 00202a42ace5ac24568d3205c25b086d
+    search: []
+  - css: buffer
+    code: 0xF837
+    uid: 550b31bb534e092c406ab568a36a681b
+    search: []
+  - css: evernote
+    code: 0xF839
+    uid: 19d4c826b8ab31fb4b5fdf6e789c81b5
+    search: []
+  - css: "itch-io"
+    code: 0xF83A
+    uid: 8d1f8da96a2600d8dad5569660ba0545
+    search: []
+  - css: chromecast
+    code: 0xF838
+    uid: 899516bf5d2407df25fe86fafc5c3ec4
+    search: []
+  - css: "speaker-deck"
+    code: 0xF83C
+    uid: 1b87157932bba690f534e2f4769d1052
+    search: []
+  - css: salesforce
+    code: 0xF83B
+    uid: 36144a274e5dbf01ef601446b939ff14
+    search: []
+  - css: symfony
+    code: 0xF83D
+    uid: 739671e62b477823471871c913a14741
+    search: []
+  - css: waze
+    code: 0xF83F
+    uid: a456e3328426ced1a4eb2a3024dec962
+    search: []
+  - css: yammer
+    code: 0xF840
+    uid: 275d5841e0b48c455e58b64ec704b68c
+    search: []
+  - css: "git-alt"
+    code: 0xF841
+    uid: cc65815d80ee757ba3b9b757d315720c
+    search: []
+  - css: stackpath
+    code: 0xF842
+    uid: 5adec1a733ff7d328b319011287bf080
+    search: []
+  - css: "cotton-bureau"
+    code: 0xF89E
+    uid: cc881d213c54f8a3fb9481c919aaf327
+    search: []
+  - css: "buy-n-large"
+    code: 0xF8A6
+    uid: 4596de7e70717014fe464baf7a1c31fc
+    search: []
+  - css: swift
+    code: 0xF8E1
+    uid: ad171e394d3fb07141be9078f2024ec3
+    search: []
+  - css: mdb
+    code: 0xF8CA
+    uid: 9bd4d109deff88d1f843f218b60cde53
+    search: []
+  - css: orcid
+    code: 0xF8D2
+    uid: 95fca0bd754e8889e52dcf9d065d15b7
+    search: []
+  - css: umbraco
+    code: 0xF8E8
+    uid: 386aadabf12c7c280846f9b8378ab416
     search: []
